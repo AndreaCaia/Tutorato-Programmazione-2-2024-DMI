@@ -31,6 +31,8 @@ Le lezioni si tengono ogni Giovedì dalle 15:00 alle 17:00 in aula 4, DMI
 
 [Esempio (questa stessa repo)](https://github.com/marcellomaugeri/Tutorato-Programmazione-2-2024-DMI)
 
+[Andrea Caia (https://github.com/AndreaCaia/Tutorato_Prog2)]
+
 ---
 
 ### Contatti
